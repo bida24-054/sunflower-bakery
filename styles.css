@@ -6,7 +6,7 @@ color: #333;
 
 background-color: #f9f9f9;
 
-margin: 0;
+margin: 0; 
 
 padding: 0;
 
@@ -118,7 +118,7 @@ border-radius: 10px;
 }
 main a[href^="mailto:"] {
 
-color: #ff5722;
+color: #FFC0CB;
 
 font-weight: bold;
 
